@@ -1,0 +1,5 @@
+model_number,serial_number,service_partners_email,mac_address
+ES-1-3550,123456,experts1@gmail.com,AA:BB:CC:DD:EE:FF
+ES-1-3550,789012,experts2@gmail.com,AA:BB:CC:DD:FF:EE
+ES-1-3550,345678,experts3@gmail.com,AA:BB:CC:EE:DD:FE
+ES-1-3550,901234,experts4@gmail.com,AA:BB:CC:EE:FF:DD

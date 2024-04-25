@@ -1,0 +1,4 @@
+company_name,phone_number,address,street,postal_code,country,state,city,email,is_active
+ABf Company,+924237863841,123 Main,14 st,12345,United States,New York,Buffalo,g@gmail.com,true
+XYd Company,+924237863851,123 Main,16 st,12345,United States,California,San Francisco,h@gmail.com,true
+AXw Company,+924237863861,123 Main,15 st,12345,United States,Texas,Houston,i@gmail.com,false
