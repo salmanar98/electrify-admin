@@ -1,0 +1,19 @@
+.swiper-pagination-bullet-active {
+    width: 20px;
+    border-radius: 5px;
+    background: white;
+  }
+  .inputStyle {
+    width: 50px !important;
+    height: 50px;
+    border-radius: 5px;
+    border-color: #dcdce4;
+    color: #000068;
+    border-style: solid;
+  }
+  
+  .inputStyle:focus {
+    border-color: #000068;
+    outline: none;
+  }
+  
